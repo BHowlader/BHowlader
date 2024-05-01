@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bibek Howlader
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning  C++ with DSA
+- 🌱 I’m currently learning DSA in C++
 
 <!---
 BHowlader/BHowlader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

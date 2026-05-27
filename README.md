@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Bibek%20Howlader&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20Researcher%20%7C%2034%20GitHub%20repositories%20%7C%20Bangladesh&descAlignY=58&animation=fadeIn" alt="Bibek Howlader profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Bibek%20Howlader&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20Researcher&descAlignY=58&animation=fadeIn" alt="Bibek Howlader profile banner" />
 </p>
 
 <p align="center">
@@ -22,10 +22,9 @@
 
 <table>
   <tr>
-    <td width="25%"><b>34</b><br />Total repositories</td>
-    <td width="25%"><b>AI Engineer</b><br />Claude, Codex, Gemini</td>
-    <td width="25%"><b>AI + CV</b><br />Chatbots, analysis, recognition</td>
-    <td width="25%"><b>Cloud Stack</b><br />Render, Railway, Supabase</td>
+    <td width="33%"><b>AI Engineer</b><br />Claude, Codex, Gemini</td>
+    <td width="33%"><b>AI + CV</b><br />Chatbots, analysis, recognition</td>
+    <td width="33%"><b>Cloud Stack</b><br />Render, Railway, Supabase</td>
   </tr>
 </table>
 

@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+full-stack+products%2C+AI+tools%2C+and+developer+utilities;Working+across+JavaScript%2C+TypeScript%2C+Python%2C+PHP%2C+C%2C+and+C%2B%2B;Turning+academic%2C+client%2C+and+Bangladesh-focused+ideas+into+software" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+full-stack+products%2C+AI+tools%2C+and+developer+utilities;Working+across+JavaScript%2C+TypeScript%2C+Python%2C+C%2C+and+C%2B%2B;Turning+academic%2C+client%2C+and+Bangladesh-focused+ideas+into+software" alt="Typing introduction" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td width="25%"><b>34</b><br />Total repositories</td>
-    <td width="25%"><b>Full-stack</b><br />React, Next.js, Node, PHP</td>
+    <td width="25%"><b>Full-stack</b><br />React, Next.js, Node</td>
     <td width="25%"><b>AI + CV</b><br />Chatbots, analysis, recognition</td>
     <td width="25%"><b>Bangladesh</b><br />Local platforms and products</td>
   </tr>
@@ -42,7 +42,7 @@
     <td width="50%">
       <h3>Public / Recent</h3>
       <p><a href="https://github.com/BHowlader/Nutrition-Hub-Bangladesh"><b>Nutrition Hub Bangladesh</b></a> - TypeScript nutrition platform</p>
-      <p><a href="https://github.com/BHowlader/Sporshow-Web-Tech-Project"><b>Sporshow Web Tech Project</b></a> - PHP web technology project</p>
+      <p><a href="https://github.com/BHowlader/Sporshow-Web-Tech-Project"><b>Sporshow Web Tech Project</b></a> - web technology project</p>
       <p><a href="https://github.com/BHowlader/bhowlader.github.io"><b>Portfolio</b></a> - JavaScript portfolio and showcase</p>
     </td>
   </tr>
@@ -112,7 +112,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,php,postgres,c,cpp,html,css,git,github,vercel&perline=15" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,postgres,c,cpp,html,css,git,github,vercel&perline=14" alt="Tech stack icons" />
 </p>
 
 ## GitHub Activity

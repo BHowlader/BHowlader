@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Bibek%20Howlader&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-stack%20developer%20%7C%2034%20GitHub%20repositories%20%7C%20Bangladesh&descAlignY=58&animation=fadeIn" alt="Bibek Howlader profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Bibek%20Howlader&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20Researcher%20%7C%2034%20GitHub%20repositories%20%7C%20Bangladesh&descAlignY=58&animation=fadeIn" alt="Bibek Howlader profile banner" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+full-stack+products%2C+AI+tools%2C+and+developer+utilities;Working+across+JavaScript%2C+TypeScript%2C+Python%2C+C%2C+and+C%2B%2B;Turning+academic%2C+client%2C+and+Bangladesh-focused+ideas+into+software" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Researcher;Building+AI+tools%2C+research+utilities%2C+and+developer+workflows;Working+with+Claude%2C+Codex%2C+Gemini%2C+Python%2C+and+TypeScript;Turning+academic%2C+client%2C+and+Bangladesh-focused+ideas+into+software" alt="Typing introduction" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td width="25%"><b>34</b><br />Total repositories</td>
-    <td width="25%"><b>Full-stack</b><br />React, Next.js, Node</td>
+    <td width="25%"><b>AI Engineer</b><br />Claude, Codex, Gemini</td>
     <td width="25%"><b>AI + CV</b><br />Chatbots, analysis, recognition</td>
     <td width="25%"><b>Bangladesh</b><br />Local platforms and products</td>
   </tr>
@@ -109,10 +109,16 @@
   </tr>
 </table>
 
-## Tech Stack
+## Tech Stack And AI Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,postgres,c,cpp,html,css,git,github,vercel&perline=14" alt="Tech stack icons" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
 ## GitHub Activity

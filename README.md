@@ -1,6 +1,6 @@
 # Bibek Howlader
 
-Software developer building practical web apps, learning tools, and academic/productivity utilities across 34 GitHub repositories.
+Software developer building practical web apps, learning tools, client projects, and academic/productivity utilities across 34 GitHub repositories.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bibekhowlader.com-1f6feb?style=for-the-badge)](https://bibekhowlader.com)
 [![GitHub](https://img.shields.io/badge/GitHub-BHowlader-24292f?style=for-the-badge&logo=github)](https://github.com/BHowlader)
@@ -12,7 +12,17 @@ Software developer building practical web apps, learning tools, and academic/pro
 - Applied AI and computer vision projects
 - Clean interfaces for real-world Bangladeshi platforms and community use cases
 
-## Featured Projects
+## Recent Work
+
+| Project | Status | Stack | Focus |
+| --- | --- | --- | --- |
+| `labrix` | Private | Python | Backend/product development |
+| `rti-bd` | Private | JavaScript | Web application work |
+| [Nutrition Hub Bangladesh](https://github.com/BHowlader/Nutrition-Hub-Bangladesh) | Public | TypeScript | Nutrition platform for Bangladesh |
+| [Sporshow Web Tech Project](https://github.com/BHowlader/Sporshow-Web-Tech-Project) | Public | PHP | Web technology project |
+| [Portfolio](https://github.com/BHowlader/bhowlader.github.io) | Public | JavaScript | Personal portfolio and project showcase |
+
+## Featured Public Projects
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
@@ -21,13 +31,20 @@ Software developer building practical web apps, learning tools, and academic/pro
 | [Git Guide](https://github.com/BHowlader/gitguide) | Developer education tool for learning Git workflows | TypeScript |
 | [Paper Analyzer](https://github.com/BHowlader/paper_analyzer) | Research-paper reading and analysis utility | JavaScript |
 | [Face Recognition Attendance Program](https://github.com/BHowlader/face-recognition-attendance-program) | Attendance system with admin and student portals | HTML, computer vision |
-| [Portfolio](https://github.com/BHowlader/bhowlader.github.io) | Personal portfolio and project showcase | JavaScript |
+| [Chat Application with C](https://github.com/BHowlader/Chat-application-with-C) | Low-level networking and systems programming practice | C |
 
-## Current Build Log
+## Private And Client Work
 
-- Improving project documentation so each repository explains the problem, features, stack, setup, and screenshots.
-- Turning course and practice projects into polished case studies with live demos.
-- Expanding full-stack projects with better auth, dashboards, admin flows, and deployment notes.
+- `Mindrona`, `AuthentiMart`, `MedAgent-BD`, `ShasthyoSathi`, and `rti-bd`: product and platform development.
+- `Woodhouse-Grill`, `San-Pie-Restaurant`, and `Maple-Leaf-Lounge`: restaurant and business web experiences.
+- `Mahesh-sir-USA-Client` and `Software-Engineeing-Academic-`: client and academic project work.
+- `labrix` and `kacchi-bhai-chatbot`: Python/AI-backed development and chatbot experiments.
+
+## Build Log
+
+- Recently active: `labrix`, `rti-bd`, [Nutrition Hub Bangladesh](https://github.com/BHowlader/Nutrition-Hub-Bangladesh), and [Sporshow Web Tech Project](https://github.com/BHowlader/Sporshow-Web-Tech-Project).
+- Current direction: polishing public repositories with clearer descriptions, live links, topics, screenshots, and setup notes.
+- Main project mix: full-stack apps, AI/chatbot tools, education utilities, portfolio sites, and Bangladesh-focused platforms.
 
 ## Tech Stack
 
@@ -47,7 +64,7 @@ Software developer building practical web apps, learning tools, and academic/pro
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BHowlader&layout=compact&hide_border=true&theme=transparent)
 
-## Repo Upgrade Checklist
+## Profile Roadmap
 
 - Add a short description to every public repository.
 - Add topics such as `react`, `nextjs`, `typescript`, `education`, `computer-vision`, `bangladesh`, or `full-stack`.

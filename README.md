@@ -148,13 +148,6 @@
   </tr>
 </table>
 
-## Roadmap
-
-- Add polished screenshots and GIF previews to the top public repositories.
-- Add clear descriptions, topics, live demo links, setup notes, and feature lists.
-- Pin the strongest repositories: `Nutrition-Hub-Bangladesh`, `algorithm-visualizer`, `gitguide`, `paper_analyzer`, `face-recognition-attendance-program`, `bhowlader.github.io`.
-- Keep the profile timeline interesting through real weekly updates: bug fixes, docs, demos, tests, and feature improvements.
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:2563eb,100:0f172a" alt="Footer wave" />
 </p>

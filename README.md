@@ -126,14 +126,13 @@
 
 ## GitHub Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BHowlader&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Bibek's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHowlader&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BHowlader&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<table>
+  <tr>
+    <td width="33%"><b>Recent Focus</b><br />labrix, rti-bd, Nutrition Hub Bangladesh</td>
+    <td width="33%"><b>Primary Languages</b><br />Python, TypeScript, JavaScript, C, C++</td>
+    <td width="33%"><b>Project Mix</b><br />AI tools, research utilities, product platforms</td>
+  </tr>
+</table>
 
 ## Private And Client Work
 

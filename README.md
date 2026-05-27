@@ -1,8 +1,8 @@
 # Bibek Howlader
 
-Software developer building practical web apps, learning tools, and academic/productivity utilities.
+Software developer building practical web apps, learning tools, and academic/productivity utilities across 34 GitHub repositories.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bhowlader.github.io-1f6feb?style=for-the-badge)](https://bhowlader-github-io.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bibekhowlader.com-1f6feb?style=for-the-badge)](https://bibekhowlader.com)
 [![GitHub](https://img.shields.io/badge/GitHub-BHowlader-24292f?style=for-the-badge&logo=github)](https://github.com/BHowlader)
 
 ## Focus Areas

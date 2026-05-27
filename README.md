@@ -25,7 +25,7 @@
     <td width="25%"><b>34</b><br />Total repositories</td>
     <td width="25%"><b>AI Engineer</b><br />Claude, Codex, Gemini</td>
     <td width="25%"><b>AI + CV</b><br />Chatbots, analysis, recognition</td>
-    <td width="25%"><b>Bangladesh</b><br />Local platforms and products</td>
+    <td width="25%"><b>Cloud Stack</b><br />Render, Railway, Supabase</td>
   </tr>
 </table>
 
@@ -119,6 +119,9 @@
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Render-46e3b7?style=for-the-badge&logo=render&logoColor=111827" alt="Render" />
+  <img src="https://img.shields.io/badge/Railway-0b0d0e?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 ## GitHub Activity
